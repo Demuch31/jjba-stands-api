@@ -1,6 +1,6 @@
 [
     {
-        "id": 1,
+        "id": 0,
         "name": "Star Platinum",
         "user": "Jotaro Kujo",
         "namesake": {
@@ -46,11 +46,11 @@
                 "description": "Star Platinum extends its middle and index fingers to stab opponents"
             }
         ],
-        "image": "images/1.png",
+        "image": "images/0.png",
         "wiki-url": "https://jojowiki.com/Star_Platinum"
     },
     {
-        "id": 2,
+        "id": 1,
         "name": "Magician's Red",
         "user": "Muhammad Avdol",
         "namesake": {
@@ -97,11 +97,11 @@
                 "description": "Magician's Red produces a \"heat radar\", that can detect movements, breathing and stand energy in a 15-meter radius"
             }
         ],
-        "image": "images/2.png",
+        "image": "images/1.png",
         "wiki-url": "https://jojowiki.com/Magician's_Red"
     },
     {
-        "id": 3,
+        "id": 2,
         "name": "Hermit Purple",
         "user": "Joseph Joestar",
         "namesake": {
@@ -141,11 +141,11 @@
                 "description": "Transmitting hamon energy through Hermit Purple"
             }
         ],
-        "image": "images/3.png",
+        "image": "images/2.png",
         "wiki-url": "https://jojowiki.com/Hermit_Purple"
     },
     {
-        "id": 4,
+        "id": 3,
         "name": "Hierophant Green",
         "user": "Noriaki Kakyoin",
         "namesake": {
@@ -188,11 +188,11 @@
                 "description": "Turning Hierophant Green's body into a string web with a 20 meter radius around its opponent. If the opponent touches any of the strings it will cause a barrage of Emerald Splash to be fired"
             }
         ],
-        "image": "images/4.png",
+        "image": "images/3.png",
         "wiki-url": "https://jojowiki.com/Hermit_Purple"
     },
     {
-        "id": 5,
+        "id": 4,
         "name": "Silver Chariot",
         "user": "Jean Pierre Polnareff",
         "namesake": {
@@ -235,11 +235,11 @@
                 "description": "Launching a blade of Silver Chariot's sword"
             }
         ],
-        "image": "images/5.png",
+        "image": "images/4.png",
         "wiki-url": "https://jojowiki.com/Silver_Chariot"
     },
     {
-        "id": 6,
+        "id": 5,
         "name": "The Fool",
         "user": "Iggy",
         "namesake": {
@@ -270,11 +270,11 @@
             }
         ],
         "techniques": null,
-        "image": "images/6.png",
+        "image": "images/5.png",
         "wiki-url": "https://jojowiki.com/The_Fool"
     },
     {
-        "id": 7,
+        "id": 6,
         "name": "The World",
         "user": "DIO",
         "namesake": {
@@ -309,11 +309,11 @@
             }
         ],
         "techniques": "null",
-        "image": "images/7.png",
+        "image": "images/6.png",
         "wiki-url": "https://jojowiki.com/The_World"
     },
     {
-        "id": 8,
+        "id": 7,
         "name": "Tower of Gray",
         "user": "Gray Fly",
         "namesake": {
@@ -347,11 +347,11 @@
                 "description": "Killing multiple people by flying through their heads"
             }
         ],
-        "image": "images/8.png",
+        "image": "images/7.png",
         "wiki-url": "https://jojowiki.com/Tower_of_Gray"
     },
     {
-        "id": 9,
+        "id": 8,
         "name": "Dark Blue Moon",
         "user": "Imposter Captain Tennille",
         "namesake": {
@@ -388,11 +388,11 @@
             }
         ],
         "techniques": null,
-        "image": "images/9.png",
+        "image": "images/8.png",
         "wiki-url": "https://jojowiki.com/Dark_Blue_Moon"
     },
     {
-        "id": 10,
+        "id": 9,
         "name": "Strength",
         "user": "Forever",
         "namesake": {
@@ -421,11 +421,11 @@
                 "description": "Strength can attach itself to a small boat and turn it into a massive freighter. While being bound to an object, user can freely manipulate it"
             }
         ],
-        "image": "images/10.png",
+        "image": "images/9.png",
         "wiki-url": "https://jojowiki.com/Strength"
     },
     {
-        "id": 11,
+        "id": 10,
         "name": "Ebony Devil",
         "user": "Devo the Cursed",
         "namesake": {
@@ -458,11 +458,11 @@
             }
         ],
         "techniques": null,
-        "image": "images/11.png",
+        "image": "images/10.png",
         "wiki-url": "https://jojowiki.com/Ebony_Devil"
     },
     {
-        "id": 12,
+        "id": 11,
         "name": "Yellow Temperance",
         "user": "Rubber Soul",
         "namesake": {
@@ -500,11 +500,11 @@
             }
         ],
         "techniques": null,
-        "image": "images/12.png",
+        "image": "images/11.png",
         "wiki-url": "https://jojowiki.com/Yellow_Temperance"
     },
     {
-        "id": 13,
+        "id": 12,
         "name": "Hanged Man",
         "user": "J. Geil",
         "namesake": {
@@ -537,11 +537,11 @@
             }
         ],
         "techniques": null,
-        "image": "images/13.png",
+        "image": "images/12.png",
         "wiki-url": "https://jojowiki.com/Hanged_Man"
     },
     {
-        "id": 14,
+        "id": 13,
         "name": "Emperor",
         "user": "Hol Horse",
         "namesake": {
@@ -574,11 +574,11 @@
             }
         ],
         "techniques": null,
-        "image": "images/14.png",
+        "image": "images/13.png",
         "wiki-url": "https://jojowiki.com/Emperor"
     },
     {
-        "id": 15,
+        "id": 14,
         "name": "Empress",
         "user": "Nena",
         "namesake": {
@@ -609,11 +609,11 @@
             }
         ],
         "techniques": null,
-        "image": "images/15.png",
+        "image": "images/14.png",
         "wiki-url": "https://jojowiki.com/Empress"
     },
     {
-        "id": 16,
+        "id": 15,
         "name": "Wheel of Fortune",
         "user": "ZZ",
         "namesake": {
@@ -651,11 +651,11 @@
             }
         ],
         "techniques": null,
-        "image": "images/16.png",
+        "image": "images/15.png",
         "wiki-url": "https://jojowiki.com/Wheel_of_Fortune"
     },
     {
-        "id": 17,
+        "id": 16,
         "name": "Justice",
         "user": "Enya the Hag",
         "namesake": {
@@ -688,11 +688,11 @@
             }
         ],
         "techniques": null,
-        "image": "images/17.png",
+        "image": "images/16.png",
         "wiki-url": "https://jojowiki.com/Justice"
     },
     {
-        "id": 18,
+        "id": 17,
         "name": "Lovers",
         "user": "Steely Dan",
         "namesake": {
@@ -729,11 +729,11 @@
             }
         ],
         "techniques": null,
-        "image": "images/18.png",
+        "image": "images/17.png",
         "wiki-url": "https://jojowiki.com/Lovers"
     },
     {
-        "id": 19,
+        "id": 18,
         "name": "Sun",
         "user": "Arabia Fats",
         "namesake": {
@@ -766,11 +766,11 @@
             }
         ],
         "techniques": null,
-        "image": "images/19.png",
+        "image": "images/18.png",
         "wiki-url": "https://jojowiki.com/Sun"
     },
     {
-        "id": 20,
+        "id": 19,
         "name": "Death Thirteen",
         "user": "Mannish Boy",
         "namesake": {
@@ -800,11 +800,11 @@
             }
         ],
         "techniques": null,
-        "image": "images/20.png",
+        "image": "images/19.png",
         "wiki-url": "https://jojowiki.com/Death_Thirteen"
     },
     {
-        "id": 21,
+        "id": 20,
         "name": "Judgement",
         "user": "Cameo",
         "namesake": {
@@ -833,11 +833,11 @@
             }
         ],
         "techniques": null,
-        "image": "images/21.png",
+        "image": "images/20.png",
         "wiki-url": "https://jojowiki.com/Judgement"
     },
     {
-        "id": 22,
+        "id": 21,
         "name": "High Priestess",
         "user": "Midler",
         "namesake": {
@@ -866,11 +866,11 @@
             }
         ],
         "techniques": null,
-        "image": "images/22.png",
+        "image": "images/21.png",
         "wiki-url": "https://jojowiki.com/High_Priestess"
     },
     {
-        "id": 23,
+        "id": 22,
         "name": "Geb",
         "user": "N'Doul",
         "namesake": {
@@ -900,11 +900,11 @@
             }
         ],
         "techniques": null,
-        "image": "images/23.png",
+        "image": "images/22.png",
         "wiki-url": "https://jojowiki.com/Geb"
     },
     {
-        "id": 24,
+        "id": 23,
         "name": "Khnum",
         "user": "Oingo",
         "namesake": {
@@ -933,11 +933,11 @@
             }
         ],
         "techniques": null,
-        "image": "images/24.png",
+        "image": "images/23.png",
         "wiki-url": "https://jojowiki.com/Khnum"
     },
     {
-        "id": 25,
+        "id": 24,
         "name": "Tohth",
         "user": "Boingo",
         "namesake": {
@@ -969,11 +969,11 @@
             }
         ],
         "techniques": null,
-        "image": "images/25.png",
+        "image": "images/24.png",
         "wiki-url": "https://jojowiki.com/Tohth"
     },
     {
-        "id": 26,
+        "id": 25,
         "name": "Anubis",
         "user": "Caravan Serai",
         "namesake": {
@@ -1023,11 +1023,11 @@
                 "description": "Silver Chariot seizes the Anubis sword and employs it in conjunction with its own"
             }
         ],
-        "image": "images/26.png",
+        "image": "images/25.png",
         "wiki-url": "https://jojowiki.com/Anubis"
     },
     {
-        "id": 27,
+        "id": 26,
         "name": "Bastet",
         "user": "Mariah",
         "namesake": {
@@ -1056,11 +1056,11 @@
             }
         ],
         "techniques": null,
-        "image": "images/27.png",
+        "image": "images/26.png",
         "wiki-url": "https://jojowiki.com/Bastet"
     },
     {
-        "id": 28,
+        "id": 27,
         "name": "Sethan",
         "user": "Alessi",
         "namesake": {
@@ -1094,11 +1094,11 @@
             }
         ],
         "techniques": null,
-        "image": "images/28.png",
+        "image": "images/27.png",
         "wiki-url": "https://jojowiki.com/Sethan"
     },
     {
-        "id": 29,
+        "id": 28,
         "name": "Osiris",
         "user": "Daniel J. D'Arby",
         "namesake": {
@@ -1133,11 +1133,11 @@
             }
         ],
         "techniques": null,
-        "image": "images/29.png",
+        "image": "images/28.png",
         "wiki-url": "https://jojowiki.com/Osiris"
     },
     {
-        "id": 30,
+        "id": 29,
         "name": "Horus",
         "user": "Pet Shop",
         "namesake": {
@@ -1166,11 +1166,11 @@
             }
         ],
         "techniques": null,
-        "image": "images/30.png",
+        "image": "images/29.png",
         "wiki-url": "https://jojowiki.com/Horus"
     },
     {
-        "id": 31,
+        "id": 30,
         "name": "Atum",
         "user": "Telence T. D'Arby",
         "namesake": {
@@ -1205,11 +1205,11 @@
             }
         ],
         "techniques": null,
-        "image": "images/31.png",
+        "image": "images/30.png",
         "wiki-url": "https://jojowiki.com/Atum"
     },
     {
-        "id": 32,
+        "id": 31,
         "name": "Tenore Sax",
         "user": "Kenny G.",
         "namesake": {
@@ -1239,11 +1239,11 @@
             }
         ],
         "techniques": null,
-        "image": "images/32.png",
+        "image": "images/31.png",
         "wiki-url": "https://jojowiki.com/Tenore_Sax"
     },
     {
-        "id": 33,
+        "id": 32,
         "name": "Cream",
         "user": "Vanilla Ice",
         "namesake": {
@@ -1276,7 +1276,7 @@
         "wiki-url": "https://jojowiki.com/Cream"
     },
     {
-        "id": 34,
+        "id": 33,
         "name": "Holy's Stand",
         "user": "Holy Kujo",
         "namesake": null,
@@ -1299,7 +1299,7 @@
         "wiki-url": "https://jojowiki.com/Holy%27s_Stand"
     },
     {
-        "id": 35,
+        "id": 34,
         "name": "Jonathan's Stand",
         "user": "DIO",
         "namesake": null,
