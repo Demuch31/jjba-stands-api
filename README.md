@@ -14,7 +14,7 @@ async function loadStands() {
     "https://cdn.jsdelivr.net/gh/demuch31/jjba-stands-api@main/stands-api.json",
   );
   const data = await r.json();
-  const stand = data[3];
+  const stand = data[2];
   const img = document.createElement("img");
   img.src = `https://cdn.jsdelivr.net/gh/demuch31/jjba-stands-api@main/${stand.image}`;
   document.getElementById("placeholder").appendChild(img);
