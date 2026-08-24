@@ -10,9 +10,7 @@ https://cdn.jsdelivr.net/gh/demuch31/jjba-stands-api@main/stands-api.json
 ## For example:
 ```js
 async function loadStands() {
-  const r = await fetch(
-    "https://cdn.jsdelivr.net/gh/demuch31/jjba-stands-api@main/stands-api.json",
-  );
+  const r = await fetch("https://cdn.jsdelivr.net/gh/demuch31/jjba-stands-api@main/stands-api.json");
   const data = await r.json();
   const stand = data[2];
   const img = document.createElement("img");
