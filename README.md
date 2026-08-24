@@ -1,5 +1,5 @@
 # jjba-stands-api
-JoJo's Bizarre Adventure Stands API - provides stats, abilities, and images for every stand in the series
+JoJo's Bizarre Adventure Stands API - provides stats, abilities, and images for every stand in the JoJo's Bizarre Adventure series
 
 ## How to fetch?
 Simply by using [jsDelivr](https://www.jsdelivr.com/):
