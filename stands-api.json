@@ -1,0 +1,1325 @@
+[
+    {
+        "id": 1,
+        "name": "Star Platinum",
+        "user": "Jotaro Kujo",
+        "namesake": {
+            "reference": "The Star",
+            "type": "tarot-card"
+        },
+        "part": [
+            "Stardust Crusaders",
+            "Diamond is Unbreakable",
+            "Stone Ocean"
+        ],
+        "type": [
+            "Close-range",
+            "Range irrelevant",
+            "Reconnaissance",
+            "Natural Humanoid"
+        ],
+        "stats": {
+            "destructive-power": "A",
+            "speed": "A",
+            "range": "C",
+            "stamina": "A",
+            "precision": "A",
+            "potential": "A"
+        },
+        "abilities": [
+            {
+                "name": "Superhuman capabilities",
+                "description": "All physical stats, such as strength, speed and precision are far beyond human limits"
+            },
+            {
+                "name": "Time stop",
+                "description": "Can stop time for a few seconds"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "Ora Ora",
+                "description": "A fast, precise rush attack of powerful punches"
+            },
+            {
+                "name": "Star Finger",
+                "description": "Star Platinum extends its middle and index fingers to stab opponents"
+            }
+        ],
+        "image": "images/1.png",
+        "wiki-url": "https://jojowiki.com/Star_Platinum"
+    },
+    {
+        "id": 2,
+        "name": "Magician's Red",
+        "user": "Muhammad Avdol",
+        "namesake": {
+            "reference": "The Magician",
+            "type": "tarot-card"
+        },
+        "part": [
+            "Stardust Crusaders"
+        ],
+        "type": [
+            "Close-range",
+            "Reconnaissance",
+            "Natural Humanoid"
+        ],
+        "stats": {
+            "destructive-power": "B",
+            "speed": "B",
+            "range": "C",
+            "stamina": "B",
+            "precision": "C",
+            "potential": "D"
+        },
+        "abilities": [
+            {
+                "name": "Pyrokinesis",
+                "description": "Power of freely generate and control fire"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "Crossfire Hurricane",
+                "description": "Sends a barrage of flaming ankhs"
+            },
+            {
+                "name": "Crossfire Hurricane Special",
+                "description": "Variation of Crossfire Hurricane, which splits ankhs to cover wider area"
+            },
+            {
+                "name": "Red Bind",
+                "description": "Uses flames to tie opponent"
+            },
+            {
+                "name": "Life Detector",
+                "description": "Magician's Red produces a \"heat radar\", that can detect movements, breathing and stand energy in a 15-meter radius"
+            }
+        ],
+        "image": "images/2.png",
+        "wiki-url": "https://jojowiki.com/Magician's_Red"
+    },
+    {
+        "id": 3,
+        "name": "Hermit Purple",
+        "user": "Joseph Joestar",
+        "namesake": {
+            "reference": "The Hermit",
+            "type": "tarot-card"
+        },
+        "part": [
+            "Stardust Crusaders",
+            "Diamond is Unbreakable"
+        ],
+        "type": [
+            "Close-range",
+            "Reconnaissance",
+            "Natural Non-Humanoid"
+        ],
+        "stats": {
+            "destructive-power": "D",
+            "speed": "C",
+            "range": "D",
+            "stamina": "A",
+            "precision": "D",
+            "potential": "E"
+        },
+        "abilities": [
+            {
+                "name": "Divination",
+                "description": "Can display information user wishes to see on different objects"
+            },
+            {
+                "name": "Electronics Manipulation",
+                "description": "Power to interface and manipulate electronic devices"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "Overdrive",
+                "description": "Transmitting hamon energy through Hermit Purple"
+            }
+        ],
+        "image": "images/3.png",
+        "wiki-url": "https://jojowiki.com/Hermit_Purple"
+    },
+    {
+        "id": 4,
+        "name": "Hierophant Green",
+        "user": "Noriaki Kakyoin",
+        "namesake": {
+            "reference": "The Hierophant",
+            "type": "tarot-card"
+        },
+        "part": [
+            "Stardust Crusaders"
+        ],
+        "type": [
+            "Long-range",
+            "Reconnaissance",
+            "Artificial Humanoid"
+        ],
+        "stats": {
+            "destructive-power": "C",
+            "speed": "D",
+            "range": "A",
+            "stamina": "B",
+            "precision": "C",
+            "potential": "D"
+        },
+        "abilities": [
+            {
+                "name": "Coiled body",
+                "description": "User can control how stand unravels his body, producing thick strings or invisible thin cords"
+            },
+            {
+                "name": "Anatomy Control",
+                "description": "Hierophant Green can control opponents body by sliding his helix inside"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "Emerald Splash",
+                "description": "Firing a blast of green material on a high speed"
+            },
+            {
+                "name": "20-Meter Radius Emerald Splash",
+                "description": "Turning Hierophant Green's body into a string web with a 20 meter radius around its opponent. If the opponent touches any of the strings it will cause a barrage of Emerald Splash to be fired"
+            }
+        ],
+        "image": "images/4.png",
+        "wiki-url": "https://jojowiki.com/Hermit_Purple"
+    },
+    {
+        "id": 5,
+        "name": "Silver Chariot",
+        "user": "Jean Pierre Polnareff",
+        "namesake": {
+            "reference": "The Chariot",
+            "type": "tarot-card"
+        },
+        "part": [
+            "Stardust Crusaders",
+            "Vento Aureo"
+        ],
+        "type": [
+            "Close-range",
+            "Artificial Humanoid"
+        ],
+        "stats": {
+            "destructive-power": "C",
+            "speed": "A",
+            "range": "C",
+            "stamina": "B",
+            "precision": "B",
+            "potential": "C"
+        },
+        "abilities": [
+            {
+                "name": "Superhuman speed",
+                "description": "Silver Chariot is a incredibly fast stand that uses rapier to fight. Its speed is high enough to create \"copies\" of itself"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "Hora Rush",
+                "description": "A super fast, precise barrage of slashes and thrusts"
+            },
+            {
+                "name": "Armor",
+                "description": "Silver Chariot is capable of unequipping his armor to provide faster attacks"
+            },
+            {
+                "name": "Sword Launch",
+                "description": "Launching a blade of Silver Chariot's sword"
+            }
+        ],
+        "image": "images/5.png",
+        "wiki-url": "https://jojowiki.com/Silver_Chariot"
+    },
+    {
+        "id": 6,
+        "name": "The Fool",
+        "user": "Iggy",
+        "namesake": {
+            "reference": "The Fool",
+            "type": "tarot-card"
+        },
+        "part": [
+            "Stardust Crusaders"
+        ],
+        "type": [
+            "Close-range",
+            "Materialized",
+            "Artificial Non-Humanoid",
+            "Natural Non-Humanoid"
+        ],
+        "stats": {
+            "destructive-power": "B",
+            "speed": "C",
+            "range": "D",
+            "stamina": "C",
+            "precision": "D",
+            "potential": "C"
+        },
+        "abilities": [
+            {
+                "name": "Phantasmagoric Sand",
+                "description": "Allow the user to fully control sand"
+            }
+        ],
+        "techniques": null,
+        "image": "images/6.png",
+        "wiki-url": "https://jojowiki.com/The_Fool"
+    },
+    {
+        "id": 7,
+        "name": "The World",
+        "user": "DIO",
+        "namesake": {
+            "reference": "The World",
+            "type": "tarot-card"
+        },
+        "part": [
+            "Stardust Crusaders",
+            "Stone Ocean"
+        ],
+        "type": [
+            "Close-range",
+            "Range Irrelevant",
+            "Natural Humanoid"
+        ],
+        "stats": {
+            "destructive-power": "A",
+            "speed": "A",
+            "range": "C",
+            "stamina": "A",
+            "precision": "B",
+            "potential": "B"
+        },
+        "abilities": [
+            {
+                "name": "Superhuman capabilities",
+                "description": "All physical stats, such as strength, speed and precision are far beyond human limits"
+            },
+            {
+                "name": "Time stop",
+                "description": "Can stop time for a few seconds"
+            }
+        ],
+        "techniques": "null",
+        "image": "images/7.png",
+        "wiki-url": "https://jojowiki.com/The_World"
+    },
+    {
+        "id": 8,
+        "name": "Tower of Gray",
+        "user": "Gray Fly",
+        "namesake": {
+            "reference": "The Tower",
+            "type": "tarot-card"
+        },
+        "part": [
+            "Stardust Crusaders"
+        ],
+        "type": [
+            "Long-range",
+            "Natural Non-Humanoid"
+        ],
+        "stats": {
+            "destructive-power": "E",
+            "speed": "A",
+            "range": "A",
+            "stamina": "C",
+            "precision": "E",
+            "potential": "E"
+        },
+        "abilities": [
+            {
+                "name": "High Speed Flight",
+                "description": "Tower of Gray can fly incredibly fast"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "Tower Needle",
+                "description": "Killing multiple people by flying through their heads"
+            }
+        ],
+        "image": "images/8.png",
+        "wiki-url": "https://jojowiki.com/Tower_of_Gray"
+    },
+    {
+        "id": 9,
+        "name": "Dark Blue Moon",
+        "user": "Imposter Captain Tennille",
+        "namesake": {
+            "reference": "The Moon",
+            "type": "tarot-card"
+        },
+        "part": [
+            "Stardust Crusaders"
+        ],
+        "type": [
+            "Close-range",
+            "Natural Humanoid"
+        ],
+        "stats": {
+            "destructive-power": "C",
+            "speed": "C",
+            "range": "C",
+            "stamina": "B",
+            "precision": "C",
+            "potential": "D"
+        },
+        "abilities": [
+            {
+                "name": "Marine Adaptation",
+                "description": "Dark Blue Moon is way stronger in water"
+            },
+            {
+                "name": "Barnacles",
+                "description": "Can produce acorn barnacles that attach to its opponent and drain its power. Also allows the user to control infected parts"
+            },
+            {
+                "name": "Razor Scales",
+                "description": "Dark Blue Moon can use its sharp scales as projectiles"
+            }
+        ],
+        "techniques": null,
+        "image": "images/9.png",
+        "wiki-url": "https://jojowiki.com/Dark_Blue_Moon"
+    },
+    {
+        "id": 10,
+        "name": "Strength",
+        "user": "Forever",
+        "namesake": {
+            "reference": "Strength",
+            "type": "tarot-card"
+        },
+        "part": [
+            "Stardust Crusaders"
+        ],
+        "type": [
+            "Close-range",
+            "Materialized",
+            "Artificial Non-Humanoid"
+        ],
+        "stats": {
+            "destructive-power": "B",
+            "speed": "D",
+            "range": "D",
+            "stamina": "A",
+            "precision": "E",
+            "potential": "E"
+        },
+        "abilities": [
+            {
+                "name": "Ship Manipulation",
+                "description": "Strength can attach itself to a small boat and turn it into a massive freighter. While being bound to an object, user can freely manipulate it"
+            }
+        ],
+        "image": "images/10.png",
+        "wiki-url": "https://jojowiki.com/Strength"
+    },
+    {
+        "id": 11,
+        "name": "Ebony Devil",
+        "user": "Devo the Cursed",
+        "namesake": {
+            "reference": "The Devil",
+            "type": "tarot-card"
+        },
+        "part": [
+            "Stardust Crusaders"
+        ],
+        "type": [
+            "Long-range",
+            "Artificial Humanoid"
+        ],
+        "stats": {
+            "destructive-power": "D",
+            "speed": "D",
+            "range": "A",
+            "stamina": "B",
+            "precision": "D",
+            "potential": "B"
+        },
+        "abilities": [
+            {
+                "name": "Doll Possession",
+                "description": "Permit the user to control the possessed doll from a safe distance and see what's going on inside its head"
+            },
+            {
+                "name": "Anger Empowerment",
+                "description": "The anger of user is increasing the strength and speed of the doll"
+            }
+        ],
+        "techniques": null,
+        "image": "images/11.png",
+        "wiki-url": "https://jojowiki.com/Ebony_Devil"
+    },
+    {
+        "id": 12,
+        "name": "Yellow Temperance",
+        "user": "Rubber Soul",
+        "namesake": {
+            "reference": "Temperance",
+            "type": "tarot-card"
+        },
+        "part": [
+            "Stardust Crusaders"
+        ],
+        "type": [
+            "Close-range",
+            "Materialized",
+            "Natural Non-Humanoid"
+        ],
+        "stats": {
+            "destructive-power": "D",
+            "speed": "C",
+            "range": "E",
+            "stamina": "A",
+            "precision": "E",
+            "potential": "D"
+        },
+        "abilities": [
+            {
+                "name": "Assimilation",
+                "description": "Can absorb organic material to grow"
+            },
+            {
+                "name": "Physical Imperviousness",
+                "description": "Can absorb physical attacks, enabling it to be used as an armor"
+            },
+            {
+                "name": "Appearance Replication",
+                "description": "Yellow Temperance is able to alter user's look allowing him to change his appearance as he wants"
+            }
+        ],
+        "techniques": null,
+        "image": "images/12.png",
+        "wiki-url": "https://jojowiki.com/Yellow_Temperance"
+    },
+    {
+        "id": 13,
+        "name": "Hanged Man",
+        "user": "J. Geil",
+        "namesake": {
+            "reference": "The Hanged Man",
+            "type": "tarot-card"
+        },
+        "part": [
+            "Stardust Crusaders"
+        ],
+        "type": [
+            "Long-range",
+            "Artificial Humanoid"
+        ],
+        "stats": {
+            "destructive-power": "C",
+            "speed": "A",
+            "range": "A",
+            "stamina": "B",
+            "precision": "D",
+            "potential": "D"
+        },
+        "abilities": [
+            {
+                "name": "Light Manifestation",
+                "description": "Can attack opponent reflection inside of the reflective surface"
+            },
+            {
+                "name": "Wrist Knives",
+                "description": "Can create knives from its wrists to attack opponent"
+            }
+        ],
+        "techniques": null,
+        "image": "images/13.png",
+        "wiki-url": "https://jojowiki.com/Hanged_Man"
+    },
+    {
+        "id": 14,
+        "name": "Emperor",
+        "user": "Hol Horse",
+        "namesake": {
+            "reference": "The Emperor",
+            "type": "tarot-card"
+        },
+        "part": [
+            "Stardust Crusaders"
+        ],
+        "type": [
+            "Close-range",
+            "Artificial Non-Humanoid"
+        ],
+        "stats": {
+            "destructive-power": "B",
+            "speed": "B",
+            "range": "B",
+            "stamina": "C",
+            "precision": "E",
+            "potential": "E"
+        },
+        "abilities": [
+            {
+                "name": "Homing Bullets",
+                "description": "Can freely control the trajectory of its bullets"
+            },
+            {
+                "name": "Point-Blank Summon",
+                "description": "Ability to summon Emperor directly in user's hand"
+            }
+        ],
+        "techniques": null,
+        "image": "images/14.png",
+        "wiki-url": "https://jojowiki.com/Emperor"
+    },
+    {
+        "id": 15,
+        "name": "Empress",
+        "user": "Nena",
+        "namesake": {
+            "reference": "The Empress",
+            "type": "tarot-card"
+        },
+        "part": [
+            "Stardust Crusaders"
+        ],
+        "type": [
+            "Long-range",
+            "Materialized",
+            "Natural Humanoid",
+            "Sentient"
+        ],
+        "stats": {
+            "destructive-power": "C",
+            "speed": "E",
+            "range": "A",
+            "stamina": "A",
+            "precision": "D",
+            "potential": "D"
+        },
+        "abilities": [
+            {
+                "name": "Parasitism",
+                "description": "Empress must be planted into opponent through direct contact with user's blood. Then it will grow and try to harm or kill its host"
+            }
+        ],
+        "techniques": null,
+        "image": "images/15.png",
+        "wiki-url": "https://jojowiki.com/Empress"
+    },
+    {
+        "id": 16,
+        "name": "Wheel of Fortune",
+        "user": "ZZ",
+        "namesake": {
+            "reference": "Wheel of Fortune",
+            "type": "tarot-card"
+        },
+        "part": [
+            "Stardust Crusaders"
+        ],
+        "type": [
+            "Close-range",
+            "Materialized",
+            "Artificial Non-Humanoid"
+        ],
+        "stats": {
+            "destructive-power": "B",
+            "speed": "D",
+            "range": "D",
+            "stamina": "A",
+            "precision": "E",
+            "potential": "D"
+        },
+        "abilities": [
+            {
+                "name": "Transformation",
+                "description": "Wheel of Fortune enhances the car's appearance and capabilities by using it as a catalyst"
+            },
+            {
+                "name": "Gasoline Bullets",
+                "description": "Ability to shoot aimless gasoline at a high pressure"
+            },
+            {
+                "name": "Gasoline Bullets",
+                "description": "User can take over neighboring cars radios to communicate with victims"
+            }
+        ],
+        "techniques": null,
+        "image": "images/16.png",
+        "wiki-url": "https://jojowiki.com/Wheel_of_Fortune"
+    },
+    {
+        "id": 17,
+        "name": "Justice",
+        "user": "Enya the Hag",
+        "namesake": {
+            "reference": "Justice",
+            "type": "tarot-card"
+        },
+        "part": [
+            "Stardust Crusaders"
+        ],
+        "type": [
+            "Long-range",
+            "Natural Non-Humanoid"
+        ],
+        "stats": {
+            "destructive-power": "D",
+            "speed": "E",
+            "range": "A",
+            "stamina": "A",
+            "precision": "E",
+            "potential": "E"
+        },
+        "abilities": [
+            {
+                "name": "Fog String Puppetry",
+                "description": "Justice can control opponents body through an open gashes"
+            },
+            {
+                "name": "Illusions",
+                "description": "Within its range, Justice can create remarkably detailed and realistic illusions"
+            }
+        ],
+        "techniques": null,
+        "image": "images/17.png",
+        "wiki-url": "https://jojowiki.com/Justice"
+    },
+    {
+        "id": 18,
+        "name": "Lovers",
+        "user": "Steely Dan",
+        "namesake": {
+            "reference": "The Lovers",
+            "type": "tarot-card"
+        },
+        "part": [
+            "Stardust Crusaders"
+        ],
+        "type": [
+            "Long-range",
+            "Artificial Humanoid"
+        ],
+        "stats": {
+            "destructive-power": "E",
+            "speed": "D",
+            "range": "A",
+            "stamina": "A",
+            "precision": "D",
+            "potential": "E"
+        },
+        "abilities": [
+            {
+                "name": "Pain Synchronization",
+                "description": "Lovers can enter victim's brain and manipulate their pain receptors. When user feel any ache, Lovers will double it several times and return the pain to its opponent"
+            },
+            {
+                "name": "Organic Waste Clones",
+                "description": "Lovers can use brain cells to disguise itself or create its copies"
+            },
+            {
+                "name": "Flesh Bud Cultivation",
+                "description": "Lovers can use DIO's flesh buds to kill its opponent"
+            }
+        ],
+        "techniques": null,
+        "image": "images/18.png",
+        "wiki-url": "https://jojowiki.com/Lovers"
+    },
+    {
+        "id": 19,
+        "name": "Sun",
+        "user": "Arabia Fats",
+        "namesake": {
+            "reference": "The Sun",
+            "type": "tarot-card"
+        },
+        "part": [
+            "Stardust Crusaders"
+        ],
+        "type": [
+            "Long-range",
+            "Natural Non-Humanoid"
+        ],
+        "stats": {
+            "destructive-power": "B",
+            "speed": "E",
+            "range": "A",
+            "stamina": "A",
+            "precision": "E",
+            "potential": "E"
+        },
+        "abilities": [
+            {
+                "name": "Sun Replica",
+                "description": "Sun's primary power is its ability to spread deadly amounts of heat and light over a wide region"
+            },
+            {
+                "name": "Light Ray Energy",
+                "description": "The Sun can emit heat as well as \"light ray energy\" from its photosphere, which can cause serious harm"
+            }
+        ],
+        "techniques": null,
+        "image": "images/19.png",
+        "wiki-url": "https://jojowiki.com/Sun"
+    },
+    {
+        "id": 20,
+        "name": "Death Thirteen",
+        "user": "Mannish Boy",
+        "namesake": {
+            "reference": "Death",
+            "type": "tarot-card"
+        },
+        "part": [
+            "Stardust Crusaders"
+        ],
+        "type": [
+            "Close-Range",
+            "Psychological Assault",
+            "Artificial Humanoid"
+        ],
+        "stats": {
+            "destructive-power": "C",
+            "speed": "C",
+            "range": "E",
+            "stamina": "B",
+            "precision": "D",
+            "potential": "B"
+        },
+        "abilities": [
+            {
+                "name": "Dream World Control",
+                "description": "When a living being falls asleep close to the user of Death Thirteen, they are pulled into the dream realm of Death Thirteen, which looks like a whimsical amusement park. This enchanting setting is dotted with joyful attractions such as Ferris wheels, carousels, spinning teacups, and a variety of other rides, along with vibrant balloons drifting about. Death Thirteen wields complete control over this dream world"
+            }
+        ],
+        "techniques": null,
+        "image": "images/20.png",
+        "wiki-url": "https://jojowiki.com/Death_Thirteen"
+    },
+    {
+        "id": 21,
+        "name": "Judgement",
+        "user": "Cameo",
+        "namesake": {
+            "reference": "Judgement",
+            "type": "tarot-card"
+        },
+        "part": [
+            "Stardust Crusaders"
+        ],
+        "type": [
+            "Close-Range",
+            "Artificial Humanoid"
+        ],
+        "stats": {
+            "destructive-power": "B",
+            "speed": "B",
+            "range": "C",
+            "stamina": "B",
+            "precision": "D",
+            "potential": "D"
+        },
+        "abilities": [
+            {
+                "name": "False Wish Granting",
+                "description": "Ability to grant people who ask for it false wishes. It makes clay models of whatever the wisher desires. Judgment either uses its clay constructions to deceive naive people into believing it, or it attacks them when they are powerless to defend themselves"
+            }
+        ],
+        "techniques": null,
+        "image": "images/21.png",
+        "wiki-url": "https://jojowiki.com/Judgement"
+    },
+    {
+        "id": 22,
+        "name": "High Priestess",
+        "user": "Midler",
+        "namesake": {
+            "reference": "The High Priestess",
+            "type": "tarot-card"
+        },
+        "part": [
+            "Stardust Crusaders"
+        ],
+        "type": [
+            "Long-range",
+            "Natural Non-Humanoid"
+        ],
+        "stats": {
+            "destructive-power": "C",
+            "speed": "B",
+            "range": "A",
+            "stamina": "A",
+            "precision": "D",
+            "potential": "D"
+        },
+        "abilities": [
+            {
+                "name": "Inorganic Assimilation & Shapeshifting",
+                "description": "A power to transform into any kind of inorganic material, including metal, glass, and plastic"
+            }
+        ],
+        "techniques": null,
+        "image": "images/22.png",
+        "wiki-url": "https://jojowiki.com/High_Priestess"
+    },
+    {
+        "id": 23,
+        "name": "Geb",
+        "user": "N'Doul",
+        "namesake": {
+            "reference": "Geb",
+            "type": "egyptian-god"
+        },
+        "part": [
+            "Stardust Crusaders"
+        ],
+        "type": [
+            "Long-range",
+            "Materialized",
+            "Natural Non-Humanoid"
+        ],
+        "stats": {
+            "destructive-power": "C",
+            "speed": "B",
+            "range": "A",
+            "stamina": "B",
+            "precision": "D",
+            "potential": "D"
+        },
+        "abilities": [
+            {
+                "name": "Water Amorphism",
+                "description": "Geb, as a body of water, is entirely shapeless and therefore extremely adaptable and agile"
+            }
+        ],
+        "techniques": null,
+        "image": "images/23.png",
+        "wiki-url": "https://jojowiki.com/Geb"
+    },
+    {
+        "id": 24,
+        "name": "Khnum",
+        "user": "Oingo",
+        "namesake": {
+            "reference": "Khnum",
+            "type": "egyptian-god"
+        },
+        "part": [
+            "Stardust Crusaders"
+        ],
+        "type": [
+            "Range Irrelevant",
+            "Phenomenon"
+        ],
+        "stats": {
+            "destructive-power": "E",
+            "speed": "E",
+            "range": "E",
+            "stamina": "A",
+            "precision": "E",
+            "potential": "E"
+        },
+        "abilities": [
+            {
+                "name": "Transfiguration",
+                "description": "Allows the user to change his height, weight, fragrance, look, and maybe voice at will"
+            }
+        ],
+        "techniques": null,
+        "image": "images/24.png",
+        "wiki-url": "https://jojowiki.com/Khnum"
+    },
+    {
+        "id": 25,
+        "name": "Tohth",
+        "user": "Boingo",
+        "namesake": {
+            "reference": "Tohth",
+            "type": "egyptian-god"
+        },
+        "part": [
+            "Stardust Crusaders"
+        ],
+        "type": [
+            "Automatic",
+            "Range Irrelevant",
+            "Foresight",
+            "Materialized",
+            "Phenomenon"
+        ],
+        "stats": {
+            "destructive-power": "E",
+            "speed": "E",
+            "range": "E",
+            "stamina": "A",
+            "precision": "E",
+            "potential": "E"
+        },
+        "abilities": [
+            {
+                "name": "Prophecies",
+                "description": "The ability to forecast the future. The majority of the book is blank, but as time goes on, more pages will appear predicting future occurrences up to a few minutes in the future"
+            }
+        ],
+        "techniques": null,
+        "image": "images/25.png",
+        "wiki-url": "https://jojowiki.com/Tohth"
+    },
+    {
+        "id": 26,
+        "name": "Anubis",
+        "user": "Caravan Serai",
+        "namesake": {
+            "reference": "Anubis",
+            "type": "egyptian-god"
+        },
+        "part": [
+            "Stardust Crusaders"
+        ],
+        "type": [
+            "Automatic",
+            "Materialized",
+            "Psychological Assault",
+            "Artificial Non-Humanoid",
+            "Multi-User",
+            "Sentient"
+        ],
+        "stats": {
+            "destructive-power": "B",
+            "speed": "B",
+            "range": "E",
+            "stamina": "A",
+            "precision": "E",
+            "potential": "C"
+        },
+        "abilities": [
+            {
+                "name": "Mind Control",
+                "description": "No matter how strong a person's will is, Anubis can dominate whoever pulls it"
+            },
+            {
+                "name": "Selective Intangibility",
+                "description": "Anubis is a cursed sword with a special ability that lets it make its blade invisible at will, allowing it to pass through objects and cut through opponents"
+            },
+            {
+                "name": "Development",
+                "description": "The most dangerous skill displayed by Anubis is its capacity to recall and counteract any attack"
+            },
+            {
+                "name": "Selective Drawing",
+                "description": "Anubis has the power to decide who will pull the sword from its sheath; the weapon cannot be drawn until Anubis is in the hands of someone it desires to own"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "\"Silver Chariot\" Plus \"Anubis\" Two-Sword Technique",
+                "description": "Silver Chariot seizes the Anubis sword and employs it in conjunction with its own"
+            }
+        ],
+        "image": "images/26.png",
+        "wiki-url": "https://jojowiki.com/Anubis"
+    },
+    {
+        "id": 27,
+        "name": "Bastet",
+        "user": "Mariah",
+        "namesake": {
+            "reference": "Bastet",
+            "type": "egyptian-god"
+        },
+        "part": [
+            "Stardust Crusaders"
+        ],
+        "type": [
+            "Long-Range",
+            "Artificial Non-Humanoid"
+        ],
+        "stats": {
+            "destructive-power": "E",
+            "speed": "E",
+            "range": "B",
+            "stamina": "A",
+            "precision": "E",
+            "potential": "E"
+        },
+        "abilities": [
+            {
+                "name": "Magnetic Attraction",
+                "description": "Opponent will be shocked when they come into contact with the outlet, turning them into a magnet that draws in adjacent metallic things"
+            }
+        ],
+        "techniques": null,
+        "image": "images/27.png",
+        "wiki-url": "https://jojowiki.com/Bastet"
+    },
+    {
+        "id": 28,
+        "name": "Sethan",
+        "user": "Alessi",
+        "namesake": {
+            "reference": "Sethan",
+            "type": "egyptian-god"
+        },
+        "part": [
+            "Stardust Crusaders"
+        ],
+        "type": [
+            "Close-Range",
+            "Materialized",
+            "Natural Humanoid"
+        ],
+        "stats": {
+            "destructive-power": "D",
+            "speed": "D",
+            "range": "E",
+            "stamina": "C",
+            "precision": "D",
+            "potential": "D"
+        },
+        "abilities": [
+            {
+                "name": "Shadow Reflection",
+                "description": "Imitates and replicates everything user does and has"
+            },
+            {
+                "name": "Age Reversal",
+                "description": "Anyone who is in users shadow will quickly age backward"
+            }
+        ],
+        "techniques": null,
+        "image": "images/28.png",
+        "wiki-url": "https://jojowiki.com/Sethan"
+    },
+    {
+        "id": 29,
+        "name": "Osiris",
+        "user": "Daniel J. D'Arby",
+        "namesake": {
+            "reference": "Osiris",
+            "type": "egyptian-god"
+        },
+        "part": [
+            "Stardust Crusaders"
+        ],
+        "type": [
+            "Close-Range",
+            "Automatic",
+            "Psychological Assault",
+            "Artificial Humanoid"
+        ],
+        "stats": {
+            "destructive-power": "E",
+            "speed": "D",
+            "range": "D",
+            "stamina": "C",
+            "precision": "D",
+            "potential": "D"
+        },
+        "abilities": [
+            {
+                "name": "Soul Steal",
+                "description": "Anyone who loses to a user in a game or bet can have their soul stolen by Osiris"
+            },
+            {
+                "name": "Poker Chip Collection",
+                "description": "Osiris's hands compress the souls and store them as poker chips, which D'Arby keeps as a collection"
+            }
+        ],
+        "techniques": null,
+        "image": "images/29.png",
+        "wiki-url": "https://jojowiki.com/Osiris"
+    },
+    {
+        "id": 30,
+        "name": "Horus",
+        "user": "Pet Shop",
+        "namesake": {
+            "reference": "Horus",
+            "type": "egyptian-god"
+        },
+        "part": [
+            "Stardust Crusaders"
+        ],
+        "type": [
+            "Close-Range",
+            "Natural Non-Humanoid"
+        ],
+        "stats": {
+            "destructive-power": "B",
+            "speed": "B",
+            "range": "D",
+            "stamina": "C",
+            "precision": "E",
+            "potential": "C"
+        },
+        "abilities": [
+            {
+                "name": "Cryokinesis",
+                "description": "Ability to produce ice quickly and in huge amounts"
+            }
+        ],
+        "techniques": null,
+        "image": "images/30.png",
+        "wiki-url": "https://jojowiki.com/Horus"
+    },
+    {
+        "id": 31,
+        "name": "Atum",
+        "user": "Telence T. D'Arby",
+        "namesake": {
+            "reference": "Atum",
+            "type": "egyptian-god"
+        },
+        "part": [
+            "Stardust Crusaders"
+        ],
+        "type": [
+            "Close-Range",
+            "Automatic",
+            "Psychological Assault",
+            "Artificial Humanoid"
+        ],
+        "stats": {
+            "destructive-power": "D",
+            "speed": "C",
+            "range": "D",
+            "stamina": "B",
+            "precision": "D",
+            "potential": "D"
+        },
+        "abilities": [
+            {
+                "name": "Soul Steal",
+                "description": "Atum's main ability enables Telence to take the souls of individuals who have acknowledged defeat in a game, a power Telence usually employs within video game contexts"
+            },
+            {
+                "name": "Binary Soul Reading",
+                "description": "Atum's second power allows the user to read souls"
+            }
+        ],
+        "techniques": null,
+        "image": "images/31.png",
+        "wiki-url": "https://jojowiki.com/Atum"
+    },
+    {
+        "id": 32,
+        "name": "Tenore Sax",
+        "user": "Kenny G.",
+        "namesake": {
+            "reference": "Tenore Sax",
+            "type": "musical-instrument"
+        },
+        "part": [
+            "Stardust Crusaders"
+        ],
+        "type": [
+            "Range Irrelevant",
+            "Phenomenon",
+            "Psychological Assault"
+        ],
+        "stats": {
+            "destructive-power": "E",
+            "speed": "E",
+            "range": "D",
+            "stamina": "A",
+            "precision": "E",
+            "potential": "E"
+        },
+        "abilities": [
+            {
+                "name": "Illusory Labyrinth Projection",
+                "description": "Tenore Sax can create illusions that distort the inside of any house, resulting in incomprehensibly vast rooms or intricate labyrinths"
+            }
+        ],
+        "techniques": null,
+        "image": "images/32.png",
+        "wiki-url": "https://jojowiki.com/Tenore_Sax"
+    },
+    {
+        "id": 33,
+        "name": "Cream",
+        "user": "Vanilla Ice",
+        "namesake": {
+            "reference": "Cream",
+            "type": "music-band"
+        },
+        "part": [
+            "Stardust Crusaders"
+        ],
+        "type": [
+            "Close-Range",
+            "Artificial Humanoid"
+        ],
+        "stats": {
+            "destructive-power": "B",
+            "speed": "B",
+            "range": "D",
+            "stamina": "C",
+            "precision": "C",
+            "potential": "D"
+        },
+        "abilities": [
+            {
+                "name": "Mobile Void",
+                "description": "Cream can transform into a portal to a void-like realm, which Vanilla Ice mainly uses to disintegrate everything in its path and hide in"
+            }
+        ],
+        "techniques": null,
+        "image": "images/33.png",
+        "wiki-url": "https://jojowiki.com/Cream"
+    },
+    {
+        "id": 34,
+        "name": "Holy's Stand",
+        "user": "Holy Kujo",
+        "namesake": null,
+        "part": [
+            "Stardust Crusaders"
+        ],
+        "type": [
+            "Close-Range",
+            "Natural Non-Humanoid"
+        ],
+        "stats": null,
+        "abilities": [
+            {
+                "name": "Debilitation",
+                "description": "Holy's Stand acts against its user, scarcely moves, and possesses no recognized abilities or powers"
+            }
+        ],
+        "techniques": null,
+        "image": "images/34.png",
+        "wiki-url": "https://jojowiki.com/Holy%27s_Stand"
+    },
+    {
+        "id": 35,
+        "name": "Jonathan's Stand",
+        "user": "DIO",
+        "namesake": null,
+        "part": [
+            "Stardust Crusaders"
+        ],
+        "type": [
+            "Close-Range",
+            "Reconnaissance",
+            "Natural Non-Humanoid"
+        ],
+        "stats": null,
+        "abilities": [
+            {
+                "name": "Divination",
+                "description": "Can display information user wishes to see on different objects"
+            }
+        ],
+        "techniques": null,
+        "image": "images/35.png",
+        "wiki-url": "https://jojowiki.com/Jonathan%27s_Stand"
+    }
+]
