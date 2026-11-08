@@ -1,0 +1,930 @@
+[
+  {
+    "id": 35,
+    "name": "Crazy Diamond",
+    "user": "Josuke Higashikata (Part 4)",
+    "namesake": {
+      "reference": "Shine On You Crazy Diamond",
+      "type": "musical-composition"
+    },
+    "part": ["Diamond is Unbreakable"],
+    "type": ["Close-range", "Natural Humanoid"],
+    "stats": {
+      "destructive-power": "A",
+      "speed": "A",
+      "range": "D",
+      "stamina": "B",
+      "precision": "B",
+      "potential": "C"
+    },
+    "abilities": [
+      {
+        "name": "Superhuman capabilities",
+        "description": "All physical stats, such as strength, speed and precision are far beyond human limits"
+      },
+      {
+        "name": "Restoration",
+        "description": "Ability to return or undo items or beings to a prior condition in their history via interaction"
+      }
+    ],
+    "techniques": null,
+    "image": "images/35.png",
+    "wiki-url": "https://jojowiki.com/Crazy_Diamond"
+  },
+  {
+    "id": 36,
+    "name": "The Hand",
+    "user": "Okuyasu Nijimura",
+    "namesake": {
+      "reference": "The Band",
+      "type": "music-band"
+    },
+    "part": ["Diamond is Unbreakable"],
+    "type": ["Close-range", "Artificial Humanoid"],
+    "stats": {
+      "destructive-power": "B",
+      "speed": "B",
+      "range": "D",
+      "stamina": "C",
+      "precision": "C",
+      "potential": "C"
+    },
+    "abilities": [
+      {
+        "name": "Elimination",
+        "description": "Anything that the right hand of The Hand touches in a sweeping motion is obliterated from this universe, whether it is physical objects or space itself"
+      }
+    ],
+    "techniques": null,
+    "image": "images/36.png",
+    "wiki-url": "https://jojowiki.com/The_Hand"
+  },
+  {
+    "id": 37,
+    "name": "Echoes ACT1",
+    "user": "Koichi Hirose",
+    "namesake": {
+      "reference": "Echoes",
+      "type": "musical-composition"
+    },
+    "part": ["Diamond is Unbreakable", "Golden Wind"],
+    "type": [
+      "Long-Range",
+      "Psychological Assault",
+      "Artificial Non-Humanoid",
+      "Evolved"
+    ],
+    "stats": {
+      "destructive-power": "E",
+      "speed": "E",
+      "range": "B",
+      "stamina": "B",
+      "precision": "C",
+      "potential": "A"
+    },
+    "abilities": [
+      {
+        "name": "Sound Generation",
+        "description": "Echoes ACT1 has the ability to print anything on any material or individual. If the writing is an onomatopoeia, generally in Katakana, a sound associated with the specific onomatopoeia will be emitted. If a phrase is written in Kanji, the expressions will affect the target's mental condition"
+      }
+    ],
+    "techniques": null,
+    "image": "images/37.png",
+    "wiki-url": "https://jojowiki.com/Echoes#ACT1"
+  },
+  {
+    "id": 38,
+    "name": "Echoes ACT2",
+    "user": "Koichi Hirose",
+    "namesake": {
+      "reference": "Echoes",
+      "type": "musical-composition"
+    },
+    "part": ["Diamond is Unbreakable"],
+    "type": ["Long-Range", "Artificial Non-Humanoid", "Evolved"],
+    "stats": {
+      "destructive-power": "C",
+      "speed": "D",
+      "range": "B",
+      "stamina": "B",
+      "precision": "C",
+      "potential": "A"
+    },
+    "abilities": [
+      {
+        "name": "Sound Effects",
+        "description": "Echoes ACT2 can print a sound effect on any surface. When the sound effect is contacted, an effect associated with the sound is generated, either influencing the person who made contact or the object on which the words are etched."
+      }
+    ],
+    "techniques": null,
+    "image": "images/38.png",
+    "wiki-url": "https://jojowiki.com/Echoes#ACT2"
+  },
+  {
+    "id": 39,
+    "name": "Echoes ACT3",
+    "user": "Koichi Hirose",
+    "namesake": {
+      "reference": "Echoes",
+      "type": "musical-composition"
+    },
+    "part": ["Diamond is Unbreakable", "Golden Wind"],
+    "type": ["Close-Range", "Artificial Humanoid", "Sentient", "Evolved"],
+    "stats": {
+      "destructive-power": "B",
+      "speed": "B",
+      "range": "C",
+      "stamina": "B",
+      "precision": "C",
+      "potential": "A"
+    },
+    "abilities": [
+      {
+        "name": "3 Freeze",
+        "description": "ACT3's signature ability. It applies a \"freezing\" effect by significantly raising the mass of its target through striking it"
+      }
+    ],
+    "techniques": null,
+    "image": "images/39.png",
+    "wiki-url": "https://jojowiki.com/Echoes#ACT3"
+  },
+  {
+    "id": 40,
+    "name": "Heaven's Door (Part 4)",
+    "user": "Rohan Kishibe (Part 4)",
+    "namesake": {
+      "reference": "Knockin' on Heaven's Door",
+      "type": "musical-composition"
+    },
+    "part": ["Diamond is Unbreakable"],
+    "type": [
+      "Close-Range",
+      "Psychological Assault",
+      "Reconnaissance",
+      "Natural Humanoid"
+    ],
+    "stats": {
+      "destructive-power": "D",
+      "speed": "B",
+      "range": "B",
+      "stamina": "B",
+      "precision": "C",
+      "potential": "A"
+    },
+    "abilities": [
+      {
+        "name": "Book Transmutation",
+        "description": "Power that allows its user to transform any living creature into a book, with pages extending from their forms shaped like the body part it opens from"
+      },
+      {
+        "name": "Memory Removal",
+        "description": "By deleting pages, the user makes their target forget any memories described there, along with a corresponding amount of body weight"
+      },
+      {
+        "name": "Written-In Commands",
+        "description": "By inscribing within the pages of an individual or entity transformed into a book, the user can modify or obliterate memories, or implant hypnotic-like directives into the individual's mind"
+      }
+    ],
+    "techniques": [
+      {
+        "name": "Safety Lock",
+        "description": "Rohan uses Heaven's Door's ability to write the command \"I cannot attack Rohan Kishibe\" on one of the person's pages, rendering them incapable of bringing themselves to attack him"
+      }
+    ],
+    "image": "images/40.png",
+    "wiki-url": "https://jojowiki.com/Heaven%27s_Door"
+  },
+  {
+    "id": 41,
+    "name": "Killer Queen (Part 4)",
+    "user": "Yoshikage Kira (Part 4)",
+    "namesake": {
+      "reference": "Killer Queen",
+      "type": "musical-composition"
+    },
+    "part": ["Diamond is Unbreakable"],
+    "type": ["Close-Range", "Natural Humanoid"],
+    "stats": {
+      "destructive-power": "A",
+      "speed": "B",
+      "range": "D",
+      "stamina": "B",
+      "precision": "B",
+      "potential": "A"
+    },
+    "abilities": [
+      {
+        "name": "Bomb Transmutation",
+        "description": "The ability to make any item, whether alive or not, a bomb just by making contact. Once a target has come into contact with the item, Killer Queen can trigger an explosion by placing its right thumb against the middle segment of its index finger"
+      }
+    ],
+    "techniques": null,
+    "image": "images/41.png",
+    "wiki-url": "https://jojowiki.com/Killer_Queen"
+  },
+  {
+    "id": 42,
+    "name": "Sheer Heart Attack (Part 4)",
+    "user": "Yoshikage Kira (Part 4)",
+    "namesake": {
+      "reference": "Sheer Heart Attack",
+      "type": "music-album"
+    },
+    "part": ["Diamond is Unbreakable"],
+    "type": ["Automatic", "Artificial Non-Humanoid"],
+    "stats": {
+      "destructive-power": "A",
+      "speed": "C",
+      "range": "A",
+      "stamina": "A",
+      "precision": "E",
+      "potential": "A"
+    },
+    "abilities": [
+      {
+        "name": "Heat-Seeking Detonation",
+        "description": "Sheer Heart Attack is an automatic heat-seeking bomb that targets the warmest object nearby. Once it reaches its target, the detected heat triggers an explosion"
+      },
+      {
+        "name": "High Durability",
+        "description": "Sheer Heart Attack's body is nearly indestructible"
+      }
+    ],
+    "techniques": null,
+    "image": "images/42.png",
+    "wiki-url": "https://jojowiki.com/Sheer_Heart_Attack"
+  },
+  {
+    "id": 43,
+    "name": "Bites the Dust",
+    "user": "Yoshikage Kira (Part 4)",
+    "namesake": {
+      "reference": "Another One Bites the Dust",
+      "type": "musical-composition"
+    },
+    "part": ["Diamond is Unbreakable"],
+    "type": [
+      "Automatic",
+      "Range Irrelevant",
+      "Psychological Assault",
+      "Natural Humanoid",
+      "Evolved"
+    ],
+    "stats": {
+      "destructive-power": "B",
+      "speed": "B",
+      "range": "A",
+      "stamina": "A",
+      "precision": "D",
+      "potential": "A"
+    },
+    "abilities": [
+      {
+        "name": "Identity Concealment",
+        "description": "When someone discovers Kira's identity, Killer Queen can be detached from Kira and implanted into their body, turning them into its host. In Hayato's case, the ability activates automatically whenever Kira's identity is revealed verbally or in writing, or when someone questions Hayato about Kira. Upon activation, a miniature version of Killer Queen enters the target's eye and causes an explosion"
+      },
+      {
+        "name": "Time-Looping Bomb",
+        "description": "After killing its target, Bites the Dust triggers a temporal loop, rewinding time to approximately one hour before the explosion"
+      }
+    ],
+    "techniques": null,
+    "image": "images/43.png",
+    "wiki-url": "https://jojowiki.com/Bites_the_Dust"
+  },
+  {
+    "id": 44,
+    "name": "Aqua Necklace",
+    "user": "Anjuro \"Angelo\" Katagiri",
+    "namesake": {
+      "reference": "Aqua",
+      "type": "music-album"
+    },
+    "part": ["Diamond is Unbreakable"],
+    "type": [
+      "Long-Range",
+      "Materialized",
+      "Natural Humanoid",
+      "Natural Non-Humanoid"
+    ],
+    "stats": {
+      "destructive-power": "C",
+      "speed": "C",
+      "range": "A",
+      "stamina": "A",
+      "precision": "C",
+      "potential": "E"
+    },
+    "abilities": [
+      {
+        "name": "Liquid Form",
+        "description": "Aqua Necklace may disguise itself as any type of fluid and assume their characteristics"
+      },
+      {
+        "name": "Possession",
+        "description": "Aqua Necklace has the ability to seize individuals from within, effortlessly entering their bodies through the victim's mouth to manipulate them"
+      }
+    ],
+    "techniques": null,
+    "image": "images/44.png",
+    "wiki-url": "https://jojowiki.com/Aqua_Necklace"
+  },
+  {
+    "id": 45,
+    "name": "Bad Company",
+    "user": "Keicho Nijimura",
+    "namesake": {
+      "reference": "Bad Company",
+      "type": "music-band"
+    },
+    "part": ["Diamond is Unbreakable"],
+    "type": [
+      "Close-Range",
+      "Reconnaissance",
+      "Artificial Humanoid",
+      "Multi-Unit"
+    ],
+    "stats": {
+      "destructive-power": "B",
+      "speed": "B",
+      "range": "C",
+      "stamina": "B",
+      "precision": "C",
+      "potential": "C"
+    },
+    "abilities": [
+      {
+        "name": "Military Firepower",
+        "description": "Bad Company consists of portable soldiers and combat vehicles, engaging in battle like a small army with corresponding firepower"
+      }
+    ],
+    "techniques": null,
+    "image": "images/45.png",
+    "wiki-url": "https://jojowiki.com/Bad_Company"
+  },
+  {
+    "id": 46,
+    "name": "The Lock",
+    "user": "Tamami Kobayashi",
+    "namesake": {
+      "reference": "The Rock",
+      "type": "musical-composition"
+    },
+    "part": ["Diamond is Unbreakable"],
+    "type": ["Automatic", "Psychological Assault", "Artificial Non-Humanoid"],
+    "stats": {
+      "destructive-power": "E",
+      "speed": "E",
+      "range": "A",
+      "stamina": "A",
+      "precision": "E",
+      "potential": "E"
+    },
+    "abilities": [
+      {
+        "name": "Guilt Entrapment",
+        "description": "By causing feelings of guilt, the user can invoke The Lock, which manifests as being fastened to the victim's chest. Subsequently, their guilt increases exponentially and can accumulate with additional charges, represented by The Lock enlarging and becoming weightier"
+      },
+      {
+        "name": "Lie Detection",
+        "description": "The Lock is proven to have the ability to identify dishonesty in an individual, as demonstrated during Josuke's cee-lo match against Rohan"
+      }
+    ],
+    "techniques": null,
+    "image": "images/46.png",
+    "wiki-url": "https://jojowiki.com/The_Lock"
+  },
+  {
+    "id": 47,
+    "name": "Surface",
+    "user": "Toshikazu Hazamada",
+    "namesake": {
+      "reference": "Surface",
+      "type": "music-band"
+    },
+    "part": ["Diamond is Unbreakable"],
+    "type": ["Automatic", "Materialized", "Sentient", "Phenomenon"],
+    "stats": {
+      "destructive-power": "B",
+      "speed": "B",
+      "range": "C",
+      "stamina": "B",
+      "precision": "C",
+      "potential": "C"
+    },
+    "abilities": [
+      {
+        "name": "Mimicry",
+        "description": "Capability to replicate the look of another individual. If the dummy is contacted by someone, it will flawlessly imitate that person's look, voice, and behaviors, including the fingerprints"
+      },
+      {
+        "name": "Forced Synchronization",
+        "description": "When Surface takes on the identity of an individual, it can compel that individual to mimic its actions. However, Surface and the target must be positioned facing each other for it to be effective"
+      }
+    ],
+    "techniques": null,
+    "image": "images/47.png",
+    "wiki-url": "https://jojowiki.com/Surface"
+  },
+  {
+    "id": 48,
+    "name": "Love Deluxe",
+    "user": "Yukako Yamagishi",
+    "namesake": {
+      "reference": "Love Deluxe",
+      "type": "music-band"
+    },
+    "part": ["Diamond is Unbreakable"],
+    "type": ["Range Irrelevant", "Integrated", "Materialized", "Phenomenon"],
+    "stats": {
+      "destructive-power": "B",
+      "speed": "B",
+      "range": "C",
+      "stamina": "A",
+      "precision": "E",
+      "potential": "B"
+    },
+    "abilities": [
+      {
+        "name": "Hair Manipulation",
+        "description": "Love Deluxe is connected to Yukako's hair. This enables her to control her hair using her thoughts with significant power and agility, as well as extend it to remarkable lengths"
+      }
+    ],
+    "techniques": null,
+    "image": "images/48.png",
+    "wiki-url": "https://jojowiki.com/Love_Deluxe"
+  },
+  {
+    "id": 49,
+    "name": "Red Hot Chili Pepper",
+    "user": "Akira Otoishi",
+    "namesake": {
+      "reference": "Red Hot Chili Peppers",
+      "type": "music-band"
+    },
+    "part": ["Diamond is Unbreakable"],
+    "type": ["Long-Range", "Natural Humanoid"],
+    "stats": {
+      "destructive-power": "A",
+      "speed": "A",
+      "range": "A",
+      "stamina": "A",
+      "precision": "C",
+      "potential": "A"
+    },
+    "abilities": [
+      {
+        "name": "Electricity Absorption",
+        "description": "Red Hot Chili Pepper can absorb electricity to boost its physical strength and speed, as well as heal its wounds"
+      },
+      {
+        "name": "Electrical Transfer",
+        "description": "Can exist within and move through electrical currents, allowing it to hide inside power lines or batteries and travel quickly through electrical cables"
+      }
+    ],
+    "techniques": null,
+    "image": "images/49.png",
+    "wiki-url": "https://jojowiki.com/Red_Hot_Chili_Pepper"
+  },
+  {
+    "id": 50,
+    "name": "Ratt",
+    "user": ["Bug-Eaten", "Not Bug-Eaten"],
+    "namesake": {
+      "reference": "Ratt",
+      "type": "music-band"
+    },
+    "part": ["Diamond is Unbreakable"],
+    "type": ["Close-Range", "Artificial Non-Humanoid", "Multi-User"],
+    "stats": {
+      "destructive-power": "B",
+      "speed": "C",
+      "range": "D",
+      "stamina": "B",
+      "precision": "E",
+      "potential": "C"
+    },
+    "abilities": [
+      {
+        "name": "Melting Darts",
+        "description": "Ability to shoot barbed darts that melt anything they hit, whether it's flesh or even metal"
+      }
+    ],
+    "techniques": null,
+    "image": "images/50.png",
+    "wiki-url": "https://jojowiki.com/Ratt"
+  },
+  {
+    "id": 51,
+    "name": "Harvest",
+    "user": "Shigekiyo \"Shigechi\" Yangu",
+    "namesake": {
+      "reference": "Harvest",
+      "type": "music-album"
+    },
+    "part": ["Diamond is Unbreakable"],
+    "type": [
+      "Long-Range",
+      "Reconnaissance",
+      "Artificial Non-Humanoid",
+      "Multi-Unit"
+    ],
+    "stats": {
+      "destructive-power": "E",
+      "speed": "B",
+      "range": "A",
+      "stamina": "A",
+      "precision": "E",
+      "potential": "C"
+    },
+    "abilities": [
+      {
+        "name": "Strength in Numbers",
+        "description": "Each individual Harvest unit is quite weak, but its fists are still strong enough to punch small holes through human flesh"
+      }
+    ],
+    "techniques": [
+      {
+        "name": "Harvesting",
+        "description": "Shigechi can send Harvest across Morioh to search for and collect a specific type of item that is small and light enough for them to carry, then bring it back to him"
+      },
+      {
+        "name": "Stinger",
+        "description": "Each Harvest unit has a stinger that Shigechi can use to inject liquids directly into his opponents' bloodstream"
+      }
+    ],
+    "image": "images/51.png",
+    "wiki-url": "https://jojowiki.com/Harvest"
+  },
+  {
+    "id": 52,
+    "name": "Atom Heart Father",
+    "user": "Yoshihiro Kira",
+    "namesake": {
+      "reference": "Atom Heart Mother",
+      "type": "music-album"
+    },
+    "part": ["Diamond is Unbreakable"],
+    "type": [
+      "Range Irrelevant",
+      "Materialized",
+      "Psychological Assault",
+      "Phenomenon"
+    ],
+    "stats": {
+      "destructive-power": "E",
+      "speed": "E",
+      "range": null,
+      "stamina": "A",
+      "precision": "E",
+      "potential": "E"
+    },
+    "abilities": [
+      {
+        "name": "Supernatural Photography",
+        "description": "Atom Heart Father is bound to a Polaroid camera that can take pictures with several unusual properties. Most notably, these pictures allow people to see Yoshihiro Kira's ghost, which is normally invisible to the human eye. Yoshihiro can also move around inside the picture and interact with objects within the photographed area"
+      }
+    ],
+    "techniques": null,
+    "image": "images/52.png",
+    "wiki-url": "https://jojowiki.com/Atom_Heart_Father"
+  },
+  {
+    "id": 53,
+    "name": "Boy II Man",
+    "user": "Ken Oyanagi",
+    "namesake": {
+      "reference": "Boy II Man",
+      "type": "music-band"
+    },
+    "part": ["Diamond is Unbreakable"],
+    "type": ["Close-Range", "Psychological Assault", "Artificial Humanoid"],
+    "stats": {
+      "destructive-power": "C",
+      "speed": "B",
+      "range": "C",
+      "stamina": "A",
+      "precision": "C",
+      "potential": "C"
+    },
+    "abilities": [
+      {
+        "name": "Energy Theft",
+        "description": "Boy II Man can steal an opponent's energy whenever Ken wins a game of Rock Paper Scissors against them"
+      }
+    ],
+    "techniques": null,
+    "image": "images/53.png",
+    "wiki-url": "https://jojowiki.com/Boy_II_Man"
+  },
+  {
+    "id": 54,
+    "name": "Highway Star",
+    "user": "Yuya Fungami",
+    "namesake": {
+      "reference": "Highway Star",
+      "type": "musical-composition"
+    },
+    "part": ["Diamond is Unbreakable"],
+    "type": ["Long-Range", "Automatic", "Reconnaissance", "Natural Humanoid"],
+    "stats": {
+      "destructive-power": "C",
+      "speed": "B",
+      "range": "A",
+      "stamina": "A",
+      "precision": "E",
+      "potential": "C"
+    },
+    "abilities": [
+      {
+        "name": "Illusory Room Projection",
+        "description": "Highway Star can create an illusionary room to lure its targets. The room's appearance depends entirely on the person being lured"
+      },
+      {
+        "name": "Enhanced Sense of Smell",
+        "description": "Highway Star has an incredible sense of smell, which Yuya also shares. The Stand can memorize someone's scent and automatically track their location"
+      },
+      {
+        "name": "Body Dismantlement",
+        "description": "Highway Star can split itself into multiple pieces while moving at high speeds. It breaks apart into flat, horizontal segments shaped like footprints, which can move independently before coming back together piece by piece"
+      },
+      {
+        "name": "Nutrient Absorption",
+        "description": "Highway Star's main ability is to drain nutrients from its victims whenever any part of it touches them, then transfer those nutrients to Yuya to heal him"
+      }
+    ],
+    "techniques": null,
+    "image": "images/54.png",
+    "wiki-url": "https://jojowiki.com/Highway_Star"
+  },
+  {
+    "id": 55,
+    "name": "Super Fly",
+    "user": "Toyohiro Kanedaichi",
+    "namesake": {
+      "reference": "Super Fly",
+      "type": "music-band"
+    },
+    "part": ["Diamond is Unbreakable"],
+    "type": ["Automatic", "Materialized", "Phenomenon"],
+    "stats": {
+      "destructive-power": "E",
+      "speed": "E",
+      "range": null,
+      "stamina": "A",
+      "precision": "E",
+      "potential": "E"
+    },
+    "abilities": [
+      {
+        "name": "Occupant Restraint",
+        "description": "Super Fly's main ability is to trap a single person inside it. It sustains itself by using the energy of its only occupant. If the victim tries to escape, Super Fly covers them in steel to prevent them from moving"
+      },
+      {
+        "name": "Damage Reflection",
+        "description": "Super Fly can also absorb and reflect any damage dealt to its structure as a way of protecting itself"
+      }
+    ],
+    "techniques": null,
+    "image": "images/55.png",
+    "wiki-url": "https://jojowiki.com/Super_Fly"
+  },
+  {
+    "id": 56,
+    "name": "Enigma",
+    "user": "Terunosuke Miyamoto",
+    "namesake": {
+      "reference": "Enigma",
+      "type": "music-band"
+    },
+    "part": ["Diamond is Unbreakable"],
+    "type": ["Close-Range", "Psychological Assault", "Artificial Humanoid"],
+    "stats": {
+      "destructive-power": "E",
+      "speed": "E",
+      "range": "C",
+      "stamina": "A",
+      "precision": "C",
+      "potential": "C"
+    },
+    "abilities": [
+      {
+        "name": "Fear-induced Paper Seal",
+        "description": "Enigma can turn objects and people, including its user, into pieces of paper. When dealing with simple objects or animals, Enigma can use its ability without any special conditions. However, to turn a person into paper, the user must first discover the specific habit they show when they're afraid. Once he has seen the target display this habit enough times to be completely sure it's their tell, Enigma can capture them the next time they show it"
+      }
+    ],
+    "techniques": null,
+    "image": "images/56.png",
+    "wiki-url": "https://jojowiki.com/Enigma"
+  },
+  {
+    "id": 57,
+    "name": "Cheap Trick",
+    "user": ["Masazo Kinoto", "Rohan Kishibe (Part 4)"],
+    "namesake": {
+      "reference": "Cheap Trick",
+      "type": "music-band"
+    },
+    "part": ["Diamond is Unbreakable"],
+    "type": [
+      "Automatic",
+      "Psychological Assault",
+      "Artificial Humanoid",
+      "Multi-User",
+      "Sentient"
+    ],
+    "stats": {
+      "destructive-power": "E",
+      "speed": "E",
+      "range": "E",
+      "stamina": "A",
+      "precision": "E",
+      "potential": "E"
+    },
+    "abilities": [
+      {
+        "name": "Attachment",
+        "description": "Cheap Trick's main ability is to attach itself to its user's back, starting with Masazo Kinoto. It then constantly tries to make someone else look at the user's back. If someone does, Cheap Trick detaches from its current host, killing them in the process, and attaches itself to the person who looked. It then repeats the same process with its new host"
+      },
+      {
+        "name": "Universal Speech",
+        "description": "It can make itself heard and understood by anyone, including people who cannot see Stands and even animals"
+      }
+    ],
+    "techniques": null,
+    "image": "images/57.png",
+    "wiki-url": "https://jojowiki.com/Cheap_Trick"
+  },
+  {
+    "id": 58,
+    "name": "Pearl Jam",
+    "user": "Tonio Trussardi",
+    "namesake": {
+      "reference": "Pearl Jam",
+      "type": "music-band"
+    },
+    "part": ["Diamond is Unbreakable"],
+    "type": ["Range Irrelevant", "Natural Non-Humanoid", "Multi-User"],
+    "stats": {
+      "destructive-power": "E",
+      "speed": "C",
+      "range": "B",
+      "stamina": "A",
+      "precision": "E",
+      "potential": "C"
+    },
+    "abilities": [
+      {
+        "name": "Curative Cooking",
+        "description": "Pearl Jam can cure various ailments through specially prepared dishes. The full limits of this ability are unknown, but it can even heal incurable diseases if the right ingredients are used"
+      }
+    ],
+    "techniques": null,
+    "image": "images/58.png",
+    "wiki-url": "https://jojowiki.com/Pearl_Jam"
+  },
+  {
+    "id": 59,
+    "name": "Achtung Baby",
+    "user": "Shizuka Joestar",
+    "namesake": {
+      "reference": "Achtung Baby",
+      "type": "music-album"
+    },
+    "part": ["Diamond is Unbreakable"],
+    "type": ["Range Irrelevant", "Integrated", "Phenomenon"],
+    "stats": {
+      "destructive-power": "E",
+      "speed": "E",
+      "range": null,
+      "stamina": "A",
+      "precision": "E",
+      "potential": "A"
+    },
+    "abilities": [
+      {
+        "name": "Invisibility",
+        "description": "Achtung Baby's ability is linked to Shizuka's stress levels, suggesting that it works as a defense mechanism. It allows her to become invisible, and when she is under extreme stress, everything within a certain distance of her also becomes invisible"
+      }
+    ],
+    "techniques": null,
+    "image": "images/59.png",
+    "wiki-url": "https://jojowiki.com/Achtung_Baby"
+  },
+  {
+    "id": 60,
+    "name": "Earth Wind and Fire",
+    "user": "Mikitaka Hazekura",
+    "namesake": {
+      "reference": "Earth Wind & Fire",
+      "type": "music-band"
+    },
+    "part": ["Diamond is Unbreakable"],
+    "type": ["Range Irrelevant", "Integrated", "Phenomenon"],
+    "stats": {
+      "destructive-power": "C",
+      "speed": "C",
+      "range": null,
+      "stamina": "A",
+      "precision": "C",
+      "potential": "C"
+    },
+    "abilities": [
+      {
+        "name": "Shapeshifting",
+        "description": "Earth Wind and Fire allows Mikitaka to transform part or all of his body into any object"
+      }
+    ],
+    "techniques": null,
+    "image": "images/60.png",
+    "wiki-url": "https://jojowiki.com/Earth_Wind_and_Fire"
+  },
+  {
+    "id": 61,
+    "name": "Cinderella",
+    "user": "Aya Tsuji",
+    "namesake": {
+      "reference": "Cinderella",
+      "type": "music-band"
+    },
+    "part": ["Diamond is Unbreakable"],
+    "type": ["Close-Range", "Artificial Humanoid"],
+    "stats": {
+      "destructive-power": "D",
+      "speed": "C",
+      "range": "C",
+      "stamina": "C",
+      "precision": "A",
+      "potential": "C"
+    },
+    "abilities": [
+      {
+        "name": "Body Part Replacement",
+        "description": "Cinderella can replace parts of a person's body by creating new ones from the slots on its hand and then sliding its hand into the body to swap out the original parts"
+      },
+      {
+        "name": "Permanent Body Replacement",
+        "description": "If someone wants to make their changes permanent, several additional rules apply. Since changing one's fate for a long time requires a lot of energy, the person must show enough dedication. After being modified, they must apply a special lipstick every 30 minutes for 24 hours, except while sleeping, to maintain the changes. The lipstick acts as a protective layer that holds the energy needed to alter fate"
+      }
+    ],
+    "techniques": null,
+    "image": "images/61.png",
+    "wiki-url": "https://jojowiki.com/Cinderella"
+  },
+  {
+    "id": 62,
+    "name": "Stray Cat",
+    "user": "Former Tama",
+    "namesake": {
+      "reference": "Stray Cats",
+      "type": "music-band"
+    },
+    "part": ["Diamond is Unbreakable"],
+    "type": [
+      "Range Irrelevant",
+      "Integrated",
+      "Materialized",
+      "Phenomenon",
+      "Sentient",
+      "Natural Non-Humanoid"
+    ],
+    "stats": {
+      "destructive-power": "B",
+      "speed": "E",
+      "range": null,
+      "stamina": "A",
+      "precision": "E",
+      "potential": "C"
+    },
+    "abilities": [
+      {
+        "name": "Reincarnation",
+        "description": "Stray Cat's first revealed ability is to bring its former user, Tama the cat, back to life as a plant after his death"
+      },
+      {
+        "name": "Feline Physiology",
+        "description": "Its leaves are nimble enough to grab objects. It waits for a target to get within range before suddenly reaching out and grabbing it"
+      },
+      {
+        "name": "Aerokinesis",
+        "description": "Stray Cat can control the air around it using its whiskers. It mainly uses this ability to create invisible bubbles of compressed air and shoot them at targets within its line of sight. It can also use these bubbles to protect itself from attacks"
+      }
+    ],
+    "techniques": null,
+    "image": "images/62.png",
+    "wiki-url": "https://jojowiki.com/Stray_Cat"
+  },
+  {
+    "id": 63,
+    "name": "Mansaku Nijimura's Stand",
+    "user": "Mansaku Nijimura",
+    "namesake": null,
+    "part": ["Diamond is Unbreakable"],
+    "type": null,
+    "stats": null,
+    "abilities": null,
+    "techniques": null,
+    "image": null,
+    "wiki-url": "https://jojowiki.com/List_of_Unnamed_Stands#Mansaku_Nijimura's_Stand"
+  }
+]
